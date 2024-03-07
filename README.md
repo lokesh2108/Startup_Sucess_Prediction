@@ -1,6 +1,6 @@
 # Prediction Model
 ## Goal: Aim of this research is to identify crucial elements that contribute to a startup company's success and provide insights to Capitalist for their better investment on emerging startups.
-Model Used:
+Models Used:
 1. Logistic Regression
 2. Decision Tree
 3. Random Forest
